@@ -208,12 +208,13 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
     &lt;h2&gt;2D三視圖&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt="" height="206" src="/images/160279461_351202149493174_1548950141849032967_n.png" width="362"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://github.com/40823146/stage1-ag16/blob/main/images/160279461_351202149493174_1548950141849032967_n.png" alt="" width="600" height="390"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
 &lt;h2&gt;3D爆炸圖&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="" height="499" src="/images/162016984_239011351257162_5695737681570219891_n.png" width="960"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://github.com/40823146/stage1-ag16/blob/main/images/162016984_239011351257162_5695737681570219891_n.png" alt="" width="600" height="390"&gt;&lt;/p&gt;
+&lt;/section&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818194812.1">&lt;section&gt;
      @others
@@ -253,7 +254,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210317235235.1">&lt;section&gt;
     &lt;h2&gt;Coppeliasim完成圖&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt="" height="499" src="/images/12 1n.png" width="960"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://github.com/40823146/stage1-ag16/blob/main/images/12%201n.png" alt="" width="600" height="390"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
