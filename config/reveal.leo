@@ -208,7 +208,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
     &lt;h2&gt;2D三視圖&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt="" height="400" src="/images/160279461_351202149493174_1548950141849032967_n.png" width="600"&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img alt="" height="206" src="/images/160279461_351202149493174_1548950141849032967_n.png" width="362"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
@@ -253,7 +253,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210317235235.1">&lt;section&gt;
     &lt;h2&gt;Coppeliasim完成圖&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt="" height="478" src="/images/12 1n.png" width="960"&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img alt="" height="499" src="/images/12 1n.png" width="960"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
