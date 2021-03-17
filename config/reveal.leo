@@ -27,10 +27,12 @@
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
+<v t="leo.20210317233539.1"><vh>slide 3-4</vh></v>
 </v>
-<v t="leo.20200818194812.1"><vh>slide 13</vh>
-<v t="leo.20200818194908.1"><vh>slide 13-1</vh></v>
-<v t="leo.20200818194933.1"><vh>slide 13-2</vh></v>
+<v t="leo.20200818194812.1"><vh>slide 3</vh>
+<v t="leo.20200818194908.1"><vh>slide 3-1</vh></v>
+<v t="leo.20200818194933.1"><vh>slide 3-2</vh></v>
+<v t="leo.20210317235235.1"><vh>slide 3-3</vh></v>
 </v>
 </v>
 </v>
@@ -200,56 +202,36 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;w3&lt;/h2&gt;
+    &lt;h2&gt;w2&lt;/h2&gt;
+    &lt;p&gt;繪製零件&lt;/P&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
+    &lt;h2&gt;2D三視圖&lt;/h2&gt;
+    &lt;p&gt;&lt;img alt="" height="400" src="/images/160279461_351202149493174_1548950141849032967_n.png" width="600"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
+&lt;h2&gt;3D爆炸圖&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="" height="499" src="/images/162016984_239011351257162_5695737681570219891_n.png" width="960"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818194812.1">&lt;section&gt;
      @others
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818194908.1">&lt;section id="fragments"&gt;
-    &lt;h2&gt;Fragments&lt;/h2&gt;
-    &lt;p&gt;Hit the next arrow...&lt;/p&gt;
-    &lt;p class="fragment"&gt;... to step through ...&lt;/p&gt;
-    &lt;p&gt;&lt;span class="fragment"&gt;... a&lt;/span&gt; &lt;span class="fragment"&gt;fragmented&lt;/span&gt; &lt;span class="fragment"&gt;slide.&lt;/span&gt;&lt;/p&gt;
-
-    &lt;aside class="notes"&gt;
-        This slide has fragments which are also stepped through in the notes window.
-    &lt;/aside&gt;
+<t tx="leo.20200818194908.1">&lt;section&gt;
+&lt;h2&gt;W3&lt;/h2&gt;
+&lt;p&gt;在coppeliasim模擬&lt;/p&gt;
 &lt;/section&gt;
  </t>
 <t tx="leo.20200818194933.1">&lt;section&gt;
-    &lt;h2&gt;Fragment Styles&lt;/h2&gt;
-    &lt;p&gt;There's different types of fragments, like:&lt;/p&gt;
-    &lt;p class="fragment grow"&gt;grow&lt;/p&gt;
-    &lt;p class="fragment shrink"&gt;shrink&lt;/p&gt;
-    &lt;p class="fragment fade-out"&gt;fade-out&lt;/p&gt;
-    &lt;p&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-right"&gt;fade-right, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-up"&gt;up, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-down"&gt;down, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-left"&gt;left&lt;/span&gt;
-    &lt;/p&gt;
-    &lt;p class="fragment fade-in-then-out"&gt;fade-in-then-out&lt;/p&gt;
-    &lt;p class="fragment fade-in-then-semi-out"&gt;fade-in-then-semi-out&lt;/p&gt;
-    &lt;p&gt;Highlight &lt;span class="fragment highlight-red"&gt;red&lt;/span&gt; &lt;span class="fragment highlight-blue"&gt;blue&lt;/span&gt; &lt;span class="fragment highlight-green"&gt;green&lt;/span&gt;&lt;/p&gt;
+    &lt;h2&gt;Coppeliasim模擬影片&lt;/h2&gt;
+    &lt;p&gt;&lt;iframe width="560" height="317" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/Kjx-otNs8v0"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+    
 &lt;/section&gt;</t>
 <t tx="leo.20210317224019.1">&lt;section&gt;
-    &lt;h2&gt;W2&lt;/h2&gt;
     &lt;p&gt;分組討論題目&lt;/p&gt;
     &lt;P&gt;電風扇&lt;/P&gt;
     &lt;p&gt;動機:因應季節的改變，想做一台電風扇&lt;/p&gt;
@@ -265,5 +247,13 @@ vertical: body pane on the botton</t>
 
 &lt;/section&gt;
 </t>
+<t tx="leo.20210317233539.1">&lt;section&gt;
+&lt;h2&gt;在Solidwork上繪製&lt;/h2&gt;
+&lt;p&gt;&lt;iframe width="560" height="314" src="//www.youtube.com/embed/MKxoqHTIJEY" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210317235235.1">&lt;section&gt;
+    &lt;h2&gt;Coppeliasim完成圖&lt;/h2&gt;
+    &lt;p&gt;&lt;img alt="" height="478" src="/images/12 1n.png" width="960"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
