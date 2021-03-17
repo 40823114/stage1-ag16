@@ -229,8 +229,6 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818194933.1">&lt;section&gt;
     &lt;h2&gt;Coppeliasim模擬影片&lt;/h2&gt;
     &lt;p&gt;&lt;iframe width="560" height="317" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/Kjx-otNs8v0"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-    
 &lt;/section&gt;</t>
 <t tx="leo.20210317224019.1">&lt;section&gt;
     &lt;p&gt;分組討論題目&lt;/p&gt;
